@@ -5,4 +5,4 @@ All html(code) from Doubao AI
          字体采用思源柔黑  
          404字样会有根据鼠标方向略微倾斜的动画  
          404字样含有超链接，用户可自定义链接  
-[点击观看视频](404-demo.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
